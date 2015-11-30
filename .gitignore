@@ -1,2 +1,5 @@
 .idea
 diaspora-nomorestars.iml
+target
+build
+.DS_Store
